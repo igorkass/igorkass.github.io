@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [View My LinkedIn Profile](https://www.linkedin.com/in/igor-kassikhin/).
+
 [View My Facebook Profile](https://www.facebook.com/igor.kassikhin).
 
 There should be whitespace between paragraphs.
