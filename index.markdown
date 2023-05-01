@@ -4,7 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[View My LinkedIn Profile](https://www.linkedin.com/in/igor-kassikhin/).
+[View My Facebook Profile](https://www.facebook.com/igor.kassikhin).
 
 There should be whitespace between paragraphs.
 
@@ -100,13 +101,11 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Igor Kassikhin</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1988</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Saint Petersburg</dd>
 </dl>
 
 ```
